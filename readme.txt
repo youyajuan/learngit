@@ -7,4 +7,5 @@ it is me
 Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick and simple.
+i am cool girl
 >>>>>>> feature1
